@@ -16,8 +16,8 @@ Self-taught, engineering strong end-to-end AI systems just for fun.
 ## Projects
 ### **BitGrad**
 A custom deep learning optimizer inspired by biological learning and gradient-based updates.  
-Designed to experiment with alternative optimization behaviors beyond Adam/SGD.
-Inspired by Karpathy's micrograd
+Designed to experiment with alternative optimization behaviors beyond Adam/SGD.    
+Inspired by Karpathy's micrograd.
 
 ### **PPO Trading Agent**
 A reinforcement learning agent trained using **Proximal Policy Optimization** for algorithmic trading.  
@@ -27,7 +27,7 @@ Focus on stable returns, reward engineering, environment design, and policy perf
 An **AI-powered chess engine**, combining:
 - NNUE-based evaluation  
 - Search-based planning
-- Agentic decision loops
+- Agentic decision loops  
 A personal research project to explore competitive game-playing AI.
 
 ---
